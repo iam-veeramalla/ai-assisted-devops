@@ -56,64 +56,50 @@
 
 ## **Day 5: AI for Observability & Incident Response**
 ### 📌 Topics
-- AI-powered monitoring with **Prometheus, Grafana, and New Relic**
-- AI for **log pattern recognition & anomaly detection**
-
-### 🛠 Hands-on
-- **Mini-Challenge:** "Use AI to analyze a set of logs and summarize root causes"
+- Introduction to AIOps
+- What is AIOps and What is not ?
+- AI-powered monitoring with **Enterprise Observability Platforms**
 
 ---
 
 ## **Day 6: AIOps - AI for IT Operations**
 ### 📌 Topics
-- What is **AIOps** and how does it work?
-- AI-powered **incident detection and auto-remediation**
-- Using AI for **predictive maintenance & anomaly detection**
-- **Tools:** Dynatrace, Moogsoft, IBM Watson AIOps
+- **AIOps** Recap?
+- AI-powered **Log Analysis**
+- Using AI for **anomaly detection** (Python)
 
 ### 🛠 Hands-on
-- **Live Demo:** Running **AIOps-based incident detection & root cause analysis**
-- **Mini-Challenge:** "Use AI to predict server failures based on logs"
-
+- **Demo:** "Use AI to predict server failures or app failures based on logs"
 ---
 
-## **Day 7: AI for CI/CD Pipeline Optimization**
-### 📌 Topics
-- AI-powered automation in **Jenkins, GitHub Actions, GitLab CI/CD**
-- AI-assisted **YAML validation and error fixing**
-
-### 🛠 Hands-on
-- **Mini-Challenge:** "Generate a GitHub Actions pipeline using AI and debug an error"
-
----
-
-## **Day 8: AI Agents for DevOps (Hands-on)**
+## **Day 7: AI Agents for DevOps (Hands-on)**
 ### 📌 Topics
 - **What are AI Agents?** How do they work?
-- AI-powered **self-healing infrastructure**
+- Create your very First AI Agent in simple steps. 
 
 ### 🛠 Hands-on
-- **Project:** Build a **simple AI agent** that monitors a deployment and suggests fixes
-
+- **Project:** Build a project using **simple AI agents** that performs a research and writes a detailed analysis in blog style.
 ---
+
+## **Day 8: AI Agents for DevOps **
+### 📌 Topics
+- Build an AI Agent for your Internal tools and documentation using CrewAI
+- In house AI Agents
+
+### 🛠 Hands-on
+- Build an AI agent to read internal documentation(PDF) and train it to answer user queries. 
 
 ## **Day 9: AI for Security & FinOps (Cost Optimization)**
 ### 📌 Topics
-- AI-assisted **vulnerability scanning** (Trivy, Snyk, Checkov)
-- AI-powered **cloud cost optimization (FinOps)**
-- AI-generated **compliance reports (CIS, NIST, PCI-DSS)**
-
-### 🛠 Hands-on
-- **Mini-Challenge:** "Use AI to scan a container image for vulnerabilities"
-- **Live Demo:** Running an **AI-powered cloud cost analysis**
+- WIP
 
 ---
 
 ## **Day 10: Capstone Project & Future of AI in DevOps**
 ### 📌 Topics
-- AI trends in DevOps (AI-powered SRE, AIOps, FinOps)
-- **Final Capstone Project:** Implement an AI-assisted DevOps automation
-- **Peer Review:** Learners give feedback on each other's projects
+- Build an AI Agent
+- AI Agent for DevOps usecase
+- Deploy the AI Agent to Kubernetes
 
 ---
 
